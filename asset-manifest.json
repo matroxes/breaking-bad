@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/matroxes/breaking-bad.git/static/css/main.124b0e17.chunk.css",
-    "main.js": "/matroxes/breaking-bad.git/static/js/main.79441a03.chunk.js",
-    "main.js.map": "/matroxes/breaking-bad.git/static/js/main.79441a03.chunk.js.map",
-    "runtime-main.js": "/matroxes/breaking-bad.git/static/js/runtime-main.4ad6a1d2.js",
-    "runtime-main.js.map": "/matroxes/breaking-bad.git/static/js/runtime-main.4ad6a1d2.js.map",
-    "static/js/2.951ad4b3.chunk.js": "/matroxes/breaking-bad.git/static/js/2.951ad4b3.chunk.js",
-    "static/js/2.951ad4b3.chunk.js.map": "/matroxes/breaking-bad.git/static/js/2.951ad4b3.chunk.js.map",
-    "index.html": "/matroxes/breaking-bad.git/index.html",
-    "static/css/main.124b0e17.chunk.css.map": "/matroxes/breaking-bad.git/static/css/main.124b0e17.chunk.css.map",
-    "static/js/2.951ad4b3.chunk.js.LICENSE.txt": "/matroxes/breaking-bad.git/static/js/2.951ad4b3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/matroxes/breaking-bad.git/static/media/bg.085908ea.jpg",
-    "static/media/logo.e6ecab44.png": "/matroxes/breaking-bad.git/static/media/logo.e6ecab44.png",
-    "static/media/spinner.11d9cde8.gif": "/matroxes/breaking-bad.git/static/media/spinner.11d9cde8.gif"
+    "main.css": "/breaking-bad/static/css/main.d2d82d7b.chunk.css",
+    "main.js": "/breaking-bad/static/js/main.79441a03.chunk.js",
+    "main.js.map": "/breaking-bad/static/js/main.79441a03.chunk.js.map",
+    "runtime-main.js": "/breaking-bad/static/js/runtime-main.638e905c.js",
+    "runtime-main.js.map": "/breaking-bad/static/js/runtime-main.638e905c.js.map",
+    "static/js/2.951ad4b3.chunk.js": "/breaking-bad/static/js/2.951ad4b3.chunk.js",
+    "static/js/2.951ad4b3.chunk.js.map": "/breaking-bad/static/js/2.951ad4b3.chunk.js.map",
+    "index.html": "/breaking-bad/index.html",
+    "static/css/main.d2d82d7b.chunk.css.map": "/breaking-bad/static/css/main.d2d82d7b.chunk.css.map",
+    "static/js/2.951ad4b3.chunk.js.LICENSE.txt": "/breaking-bad/static/js/2.951ad4b3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ad6a1d2.js",
+    "static/js/runtime-main.638e905c.js",
     "static/js/2.951ad4b3.chunk.js",
-    "static/css/main.124b0e17.chunk.css",
+    "static/css/main.d2d82d7b.chunk.css",
     "static/js/main.79441a03.chunk.js"
   ]
 }
